@@ -1,1 +1,23 @@
-1
+var unit = "км";
+var quantity = 10;
+
+var result;
+var converted;
+
+switch (unit) {
+    case "км":
+        converted = quantity * 1000;
+        result = `${quantity} км це ${converted} м.`;
+        break;
+    case "год":
+        converted = quantity * 60;
+        result = `${quantity} год це ${converted} хв.`;
+        break;
+    case "кг":
+        converted = quantity * 1000;
+        result = `${quantity} кг це ${converted} гр.`;
+        break;
+    default:
+        result = "Невідомі одиниці виміру";
+}
+console.log(result);
