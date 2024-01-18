@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ebd1cd-f842-4e03-8df1-97e2dd6c92fd" name="Changes" comment="2">
+    <list default="true" id="78ebd1cd-f842-4e03-8df1-97e2dd6c92fd" name="Changes" comment="половина домашки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/homework1.txt" afterDir="false" />
     </list>
@@ -78,13 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1705524862895</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="половина домашки">
+      <option name="closed" value="true" />
+      <created>1705564839030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705564839030</updated>
+    </task>
+    <task id="LOCAL-00006" summary="половина домашки">
+      <option name="closed" value="true" />
+      <created>1705564856339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705564856339</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <MESSAGE value="удаление файла 1" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="половина домашки" />
+    <option name="LAST_COMMIT_MESSAGE" value="половина домашки" />
   </component>
 </project>
