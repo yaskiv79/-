@@ -15,3 +15,22 @@ console.log('Вік не може бути менше нуля')
     console.log('Ваш вік', age, 'років')
     }
 
+//Виправила вік який закінчується на 11
+
+var age = prompt("Вкажіть ваш вік");
+if (age < 0) {
+console.log('Вік не може бути менше нуля')
+}
+    else if ((age == 11) && (age % 100 == 11)){
+    console.log('Ваш вік', age, 'років')
+    }
+    else if ((age % 10 === 1) && (age %100 !==11)){
+    console.log('Ваш вік', age, 'рік')
+    }
+    else if (age % 10 >= 2 && age % 10 <= 4) {
+    console.log('Ваш вік', age, 'роки')
+    }
+    else {
+    console.log('Ваш вік', age, 'років')
+    }
+

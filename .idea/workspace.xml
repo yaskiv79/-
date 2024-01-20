@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ebd1cd-f842-4e03-8df1-97e2dd6c92fd" name="Changes" comment="файл переіменовано">
-      <change afterPath="$PROJECT_DIR$/dz4.txt" afterDir="false" />
+    <list default="true" id="78ebd1cd-f842-4e03-8df1-97e2dd6c92fd" name="Changes" comment="дз4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,12 +23,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
+    ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -142,7 +146,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705613892433</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="створено файл">
+      <option name="closed" value="true" />
+      <created>1705614056024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1705614056024</updated>
+    </task>
+    <task id="LOCAL-00014" summary="дз4">
+      <option name="closed" value="true" />
+      <created>1705616265899</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1705616265899</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -156,6 +176,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="домашка 2" />
     <MESSAGE value="файл переіменовано" />
-    <option name="LAST_COMMIT_MESSAGE" value="файл переіменовано" />
+    <MESSAGE value="створено файл" />
+    <MESSAGE value="дз4" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз4" />
   </component>
 </project>
