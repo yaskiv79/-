@@ -19,3 +19,4 @@ function drawTriangle2(height, symbol) {
     }
 }
 drawTriangle2(5, '*');
+
