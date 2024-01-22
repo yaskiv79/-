@@ -28,6 +28,4 @@ function checkProbabilityTheory(count) {
     console.log("Відсоток непарних чисел:", oddPercentage.toFixed(2) + "%");
     console.log("Відсоток парних до непарних:", evenToOddRatio);
 }
-
-// Виклик функції з параметром count, наприклад, 1000
 checkProbabilityTheory(1000);
